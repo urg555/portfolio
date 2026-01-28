@@ -15,7 +15,7 @@ const montserrat = Montserrat({
 
 export const metadata: Metadata = {
   title: "Ubaraj Giri | Senior Executive Portfolio",
-  description: "Senior Accounting and Administration professional with 27+ years of leadership in Finance, Taxation, HR, and Administration.",
+  description: "Senior Accounting and Administration professional with 20+ years of leadership in Finance, Taxation, HR, and Administration.",
 };
 
 export default function RootLayout({

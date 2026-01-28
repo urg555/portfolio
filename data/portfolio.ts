@@ -2,11 +2,11 @@ export const portfolioData = {
     personalInfo: {
         name: "Ubaraj Giri",
         title: "Senior Accounting & Administration Professional",
-        subtitle: "27+ Years of Leadership in Finance, Taxation, HR, Administration, and Organizational Governance",
+        subtitle: "20+ Years of Leadership in Finance, Taxation, HR, Administration, and Organizational Governance",
         phone: "+977-9851014771",
         email: "urg555@gmail.com",
         linkedin: "linkedin.com/in/ubaraj-giri-00210522b",
-        summary: "Senior Accounting and Administration professional with 27+ years of progressive experience in senior roles such as Chief Account & Tax Officer, Finance & Administration Head, Deputy Finance Controller, General Administration & HR Manager, and Executive Manager across semi-government, private, and international organizations. Recognized for excellence in financial control, taxation, compliance, administrative systems, and organizational leadership.",
+        summary: "Senior Accounting and Administration professional with 20+ years of progressive experience in senior roles such as Chief Account & Tax Officer, Finance & Administration Head, Deputy Finance Controller, General Administration & HR Manager, and Executive Manager across semi-government, private, and international organizations. Recognized for excellence in financial control, taxation, compliance, administrative systems, and organizational leadership.",
     },
     strengths: [
         { name: "Financial Management & Taxation", icon: "Calculator" },
@@ -23,7 +23,7 @@ export const portfolioData = {
             role: "Finance and Administration Head",
             organization: "Cosmos College of Management and Technology",
             location: "Sitapaila, Kathmandu",
-            duration: "2018–2025 (7 Years)",
+            duration: "2018–2026 (7 Years)",
             responsibilities: [
                 "Led overall finance and administrative operations, ensuring accuracy, transparency, and compliance.",
                 "Prepared and reviewed financial statements, reports, and vouchers with full responsibility for accounting and controls.",
@@ -143,7 +143,7 @@ export const portfolioData = {
         { role: "Member", organization: "Himalayan Lion Club, Pokhara" },
     ],
     stats: [
-        { label: "Years Experience", value: 27 },
+        { label: "Years Experience", value: 20, suffix: "+" },
         { label: "Published Papers", value: 5, suffix: "+" },
         { label: "Organizations Worked", value: 10, suffix: "+" },
     ],

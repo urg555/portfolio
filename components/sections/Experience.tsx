@@ -77,7 +77,7 @@ export const Experience = () => {
             <div className="container mx-auto px-4">
                 <div className="mb-20 text-center">
                     <h2 className="text-primary font-bold uppercase tracking-widest text-sm mb-4">Professional Path</h2>
-                    <h3 className="text-4xl md:text-6xl font-heading font-black text-foreground">The 27-Year <span className="text-primary italic">Journey</span></h3>
+                    <h3 className="text-4xl md:text-6xl font-heading font-black text-foreground">The 20+ Year <span className="text-primary italic">Journey</span></h3>
                 </div>
 
                 <div className="relative max-w-5xl mx-auto">

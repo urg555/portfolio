@@ -29,7 +29,7 @@ export const About = () => {
                                 />
                             </div>
                             <div className="absolute -bottom-6 -right-6 bg-primary text-black p-6 rounded-xl hidden md:block">
-                                <p className="text-4xl font-black">27+</p>
+                                <p className="text-4xl font-black">20+</p>
                                 <p className="text-xs font-bold uppercase tracking-tighter leading-none">Years of<br />Expertise</p>
                             </div>
                         </div>
